@@ -1,7 +1,7 @@
 //console.log('Hola mundo!!');
 //Strings
 //a = nombre de la persona
-export let firstName = 'Daniel'; // Variable para almacenar el nombre
+let firstName = 'Daniel'; // Variable para almacenar el nombre
 let LastName = 'Huaman'; // Variable para almacenar el apellido
 
 //console.log(firstName, LastName);
